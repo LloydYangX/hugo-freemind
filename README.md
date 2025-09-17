@@ -4,7 +4,7 @@ A beautiful theme for [Hugo](https://gohugo.io/)
 
 ## Live demo
 
-[https://yyycode.github.io/freemind.site](https://yyycode.github.io/freemind.site)
+[https://blog.zihang.xin](https://blog.zihang.xin)
 
 ## Features
 - responsive
